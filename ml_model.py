@@ -8,3 +8,6 @@ def model2():
 
 def model3():
     print("adding all ml model3")
+
+
+print("model2 is performing good")
